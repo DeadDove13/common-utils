@@ -25,6 +25,7 @@ Generate boxed comment headers for multiple programming languages. Supports inli
 - `tkinter` (builtin)  
 - `ttk`, `ScrolledText`
 
+![BoxGen Screenshot](images/BoxGen.png)
 ---
 
 ### `punkys_cypher.py`
